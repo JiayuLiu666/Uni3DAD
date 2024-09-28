@@ -13,9 +13,9 @@ If you find our work useful in your research, please consider citing:
 ## How to use code?
 0. Environment: \
 Linux
-Python 3.8.15
-Pytorch: 1.13.1
-CUDA: 11.6
+Python 3.8.15 \
+Pytorch: 1.13.1 \
+CUDA: 11.7 \
  
 2.  Clone the repo:
 ```bash
