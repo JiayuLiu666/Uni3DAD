@@ -25,6 +25,14 @@ git clone https://github.com/JiayuLiu666/Uni3DAD.git
 ### 3. pip necessary packages: 
 Since this repo is built on 3D-ADS (https://github.com/eliahuhorwitz/3D-ADS), M3DM (https://github.com/nomewang/M3DM), Shape-Inversion (https://github.com/junzhezhang/shape-inversion.git), and Shape-guided (https://github.com/jayliu0313/Shape-Guided.git), please refer to their Github pages for the necessary packages. Thanks for their contributions. 
 
+```bash
+pip install -r requirement.txt
+# install knn_cuda
+pip install --upgrade https://github.com/unlimblue/KNN_CUDA/releases/download/0.2/KNN_CUDA-0.2-py3-none-any.whl
+# install pointnet2_ops_lib
+pip install "git+git://github.com/erikwijmans/Pointnet2_PyTorch.git#egg=pointnet2_ops&subdirectory=pointnet2_ops_lib"
+```
+
 ### 4. Dataset: 
 We use MVTec 3D-AD as our dataset (https://www.mvtec.com/company/research/datasets/mvtec-3d-ad). Please refer to 3D-ADS, M3DM, and Shape-guided for the data preprocessing. \
 (We also create our own dataset for missing parts detection based on MVTec 3D-AD; if you need it, please contact us.)
