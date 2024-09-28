@@ -22,7 +22,7 @@ CUDA: 11.7
 git clone https://github.com/JiayuLiu666/Uni3DAD.git
 ```
 
-### 3. pip necessary packages: 
+### 3. Pip necessary packages: 
 Since this repo is built on 3D-ADS (https://github.com/eliahuhorwitz/3D-ADS), M3DM (https://github.com/nomewang/M3DM), Shape-Inversion (https://github.com/junzhezhang/shape-inversion.git), and Shape-guided (https://github.com/jayliu0313/Shape-Guided.git), please refer to their Github pages for the necessary packages and pre-trained models. Thanks for their contributions. 
 
 ### 4. Dataset: 
