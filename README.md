@@ -20,5 +20,5 @@ git clone https://github.com/JiayuLiu666/Uni3DAD.git
 ```
 
 2. pip necessary packages: \
-Since this repo is built on 3D-ADS(https://github.com/eliahuhorwitz/3D-ADS)
+Since this repo is built on 3D-ADS (https://github.com/eliahuhorwitz/3D-ADS), M3DM (https://github.com/nomewang/M3DM), Shape-Inversion (https://github.com/junzhezhang/shape-inversion.git), and Shape-guided (https://github.com/jayliu0313/Shape-Guided.git), please refer to their repo for the necessary packages. Thank for their excellent work. 
 
