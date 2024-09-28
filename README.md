@@ -30,7 +30,7 @@ We use MVTec 3D-AD as our dataset (https://www.mvtec.com/company/research/datase
 (We also create our own dataset for missing parts detection based on MVTec 3D-AD; if you need it, please contact us.)
 
 ### 5. Pre-trained models:
-You are use
+You can use
 ```
 train_dist.py 
 ```
