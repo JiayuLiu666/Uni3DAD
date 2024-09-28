@@ -61,4 +61,8 @@ The GAN models and necessary feature-extractors models should be saved like this
 └── README.md
 ```
 ## Run the code
-
+You can use 
+```bash
+python runner.py --METHOD_NAME BTF+GAN --saved_training "YOUR Directory" ...
+```
+to run the code. Please refer to config.py in the Generation to change the parameters.
