@@ -17,6 +17,7 @@ If you find our work useful in your research, please consider citing:
 1.  Clone the repo:
 ```bash
 git clone https://github.com/JiayuLiu666/Uni3DAD.git
+```
 
 2. pip necessary packages: \
 Since this repo is built on 3D-ADS(https://github.com/eliahuhorwitz/3D-ADS)
