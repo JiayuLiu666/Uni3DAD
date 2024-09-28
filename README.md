@@ -43,5 +43,22 @@ You can use
 train_dist.py 
 ```
 to train your own GAN models for each category. We also provide the pre-trained models: 
+
+The GAN models and necessary feature-extractors models should be saved like this structure: 
+```
+├──Checkpoints
+│   ├── best_ckpt
+│   │   ├── ckpt_00601.pth
+│   ├── ...
+│   ├── pointMAE_pretrain.pth
+│   ├── ...
+├── Common
+│   ├── ...
+│   ├── ...
+├── pretrain_checkpoints
+│   ├── bagel.ckpt
+│   ├── ...
+└── README.md
+```
 ## Run the code
 
