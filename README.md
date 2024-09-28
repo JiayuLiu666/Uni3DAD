@@ -11,7 +11,13 @@ If you find our work useful in your research, please consider citing:
 }
 ```
 ## How to use code?
-1.  Clone the repo:
+0. Environment: \
+Linux
+Python 3.8.15
+Pytorch: 1.13.1
+CUDA: 11.6
+ 
+2.  Clone the repo:
 ```bash
 git clone https://github.com/JiayuLiu666/Uni3DAD.git
 ```
