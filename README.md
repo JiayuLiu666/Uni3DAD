@@ -34,6 +34,6 @@ You can use
 ```
 train_dist.py 
 ```
-to train your own GAN model for each category. We also provide the pre-trained models: 
+to train your own GAN models for each category. We also provide the pre-trained models: 
 ## Run the code
 
