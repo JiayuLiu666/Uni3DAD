@@ -12,8 +12,8 @@ If you find our work useful in your research, please consider citing:
 ```
 ## How to use code?
 ### 1. Environment: 
-Linux 20.04 \
-Python 3.8.15 \
+Linux: 20.04 \
+Python: 3.8.15 \
 Pytorch: 1.13.1 \
 CUDA: 11.7 
  
