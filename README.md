@@ -38,6 +38,13 @@ train_dist.py
 ```
 to train your own GAN models for each category. We also provide the pre-trained models: 
 
+After training is finished, you can use 
+```
+visual_dist.py
+```
+to check the results of training.
+
+
 The GAN models and necessary feature-extractors models should be saved like this structure: 
 ```
 ├──Checkpoints
