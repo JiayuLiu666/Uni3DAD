@@ -27,7 +27,7 @@ Since this repo is built on 3D-ADS (https://github.com/eliahuhorwitz/3D-ADS), M3
 
 ### 4. Dataset: 
 We use MVTec 3D-AD as our dataset (https://www.mvtec.com/company/research/datasets/mvtec-3d-ad). Please refer to 3D-ADS, M3DM, and Shape-guided for the data preprocessing. \
-(We also create our own dataset for missing parts detection based on MVTec 3D-AD; if you need it, please contact us.) \
+(We also create our own dataset for missing parts detection based on MVTec 3D-AD; if you need it, please contact us.) 
 
 data_process.ipynb is the code that creates the validation dataset.
 
