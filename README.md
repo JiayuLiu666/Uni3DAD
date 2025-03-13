@@ -1,4 +1,6 @@
 # Uni3DAD
+This is not the latest code. I will update the latest version...
+
 This is the implementation of [Uni-3DAD: GAN-Inversion Aided Universal 3D Anomaly Detection on Model-free Products](https://arxiv.org/abs/2408.16201).
 
 If you find our work useful in your research, please consider citing: 
