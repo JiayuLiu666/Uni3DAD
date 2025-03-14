@@ -5,11 +5,17 @@ This is the implementation of [Uni-3DAD: GAN-Inversion Aided Universal 3D Anomal
 
 If you find our work useful in your research, please consider citing: 
 ```
-@article{liu2024uni,
-  title={Uni-3DAD: GAN-Inversion Aided Universal 3D Anomaly Detection on Model-free Products},
-  author={Liu, Jiayu and Mou, Shancong and Gaw, Nathan and Wang, Yinan},
-  journal={arXiv preprint arXiv:2408.16201},
-  year={2024}
+@article{LIU2025126665,
+title = {Uni-3DAD: Gan-inversion aided universal 3D anomaly detection on model-free products},
+journal = {Expert Systems with Applications},
+volume = {272},
+pages = {126665},
+year = {2025},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2025.126665},
+url = {https://www.sciencedirect.com/science/article/pii/S0957417425002878},
+author = {Jiayu Liu and Shancong Mou and Nathan Gaw and Yinan Wang},
+keywords = {Unsupervised learning, 3D point clouds, Anomaly detection}
 }
 ```
 ## How to use code?
