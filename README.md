@@ -75,3 +75,6 @@ You can use
 python runner.py --METHOD_NAME BTF+GAN --saved_training "YOUR Directory" ...
 ```
 to run the code. Please refer to config.py in the Generation to change the parameters.
+
+## Dataset
+
