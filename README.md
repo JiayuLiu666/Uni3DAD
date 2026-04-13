@@ -77,4 +77,4 @@ python runner.py --METHOD_NAME BTF+GAN --saved_training "YOUR Directory" ...
 to run the code. Please refer to config.py in the Generation to change the parameters.
 
 ## Dataset
-https://drive.google.com/file/d/1FozkWrj1Y7MBX_UaA6G8Eaiwn1aHQIqr/view?usp=drive_link
+[https://drive.google.com/file/d/1FozkWrj1Y7MBX_UaA6G8Eaiwn1aHQIqr/view?usp=drive_link](https://drive.google.com/file/d/1OQbB6ZKV5jtj-r3IdPgDE23kojkDmh3C/view?usp=sharing)
